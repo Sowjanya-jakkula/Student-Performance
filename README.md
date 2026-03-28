@@ -23,5 +23,5 @@ This project analyzes student performance data using SQL, Excel, and Power BI to
 
 ## 📄 Resume
 [Download Resume](## 📄 Resume
-[Download Resume]()
+[Download Resume](https://github.com/Sowjanya-jakkula/Student-Performance/blob/main/Resume.pdf)
 
