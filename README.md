@@ -21,5 +21,7 @@ This project analyzes student performance data using SQL, Excel, and Power BI to
 ## 📸 Dashboard Preview
 ![Dashboard](Dashboard.png)
 
-
+## 📄 Resume
+[Download Resume](## 📄 Resume
+[Download Resume]()
 
