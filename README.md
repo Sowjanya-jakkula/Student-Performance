@@ -1,4 +1,3 @@
-# Student-Performance
 # 📊 Student Performance Analysis
 
 ## 📌 Overview
@@ -20,6 +19,7 @@ This project analyzes student performance data using SQL, Excel, and Power BI to
 - dashboard.pbix → Power BI dashboard
 
 ## 📸 Dashboard Preview
+![Dashboard](Dashboard.png)
 
 
 
