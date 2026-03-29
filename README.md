@@ -4,17 +4,23 @@
 This project analyzes student performance data using SQL, Excel, and Power BI to identify trends and insights.
 
 ## 🛠 Tools Used
-- SQL
-- Excel
+-Excel
+- SQL 
 - Power BI
 
+## 📊 Key Metrics
+- Total Students  
+- Average Performance Score  
+- Performance Distribution  
+  
 ## 📈 Key Insights
-- Students with higher study hours scored better marks
-- Math scores are lower compared to reading & writing
-- Parental education impacts student performance
+- Student performance is influenced by multiple factors such as study time and previous scores  
+- Performance distribution shows variation among different groups of students  
+- Trends highlight patterns in student outcomes over time  
+- Some factors have a stronger impact on performance compared to others  
 
 ## 📂 Files Included
-- dataset.csv → Raw data
+- dataset.csv → Student performance dataset 
 - queries.sql → SQL analysis
 - dashboard.pbix → Power BI dashboard
 
